@@ -1,0 +1,15 @@
+/* Your CSS styles here to achieve the retro look */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style for product sections, buttons, etc. */
